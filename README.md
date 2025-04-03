@@ -8,4 +8,5 @@ I'm a **[HEIG-VD](https://heig-vd.ch/) computer science** student, in second yea
 I've been coding a lot in C++ even prior to my classes, where I am now learning about Java and SQL.  
   
 ### Projects I'm proud(ish) of  
-- [Music Player](https://github.com/rp2709/MusicPlayer)  
+- **[Expressions](https://github.com/rp2709/expressions)**
+- ~~[Music Player](https://github.com/rp2709/MusicPlayer)~~
